@@ -1,0 +1,19 @@
+{
+  "resourceType": "Appointment",  
+  "description": "details of appointment",
+  "identifier": [
+     {
+        "system": "http://www.example.com",
+        "value": "example-id"
+     }
+  ],
+  "participant": [
+    {
+      "actor": {
+        "id": "Patient/123"
+      },
+      "status": "needs-action"
+    }
+  ],
+  "status": "proposed"
+}

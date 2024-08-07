@@ -1,0 +1,19 @@
+{
+  "resourceType": "Patient",
+  "id": "123",
+  "meta": {
+    "lastUpdated": "2022-01-01T00:00:00+00:00"
+  },
+  "name": [
+    {
+      "use": "official",
+      "family": "Simpson",
+      "given": [
+        "Homer"
+      ]
+    }
+  ],
+  "gender": "male",
+  "birthDate": "1955-05-01"
+}
+

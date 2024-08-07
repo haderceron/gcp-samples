@@ -1,0 +1,7 @@
+{
+    "name": "<WEBHOOK_SUBSCRIPTION_NAME>",
+    "endpoint": "<WEBHOOK_PUSH_ENDPOINT>",
+    "fhir-resources": [
+        "Patient"
+     ]     
+}
